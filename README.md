@@ -1,6 +1,6 @@
 # SIN CRM
 
-![SIN CRM Logo](https://via.placeholder.com/600x200?text=SIN+CRM)  
+![SIN CRM Logo](https://static.wixstatic.com/media/a927af_d61d4e4ae009473bb317cd6a0a75213f~mv2.png/v1/fill/w_699,h_313,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/TECHNOLOGIES.png)  
 *Empowering Intelligent Business Relationships*
 
 ---
